@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`can renders Counter 1`] = `
+<div
+  class="sc-EHOje kRQgZM"
+>
+  <div
+    class="sc-bZQynM hxCbxs"
+  >
+    <h1
+      class="sc-gzVnrw drkSJf"
+    >
+      Unset
+    </h1>
+  </div>
+  <div
+    class="sc-dnqmqq kVSpfo"
+  >
+    <button
+      class="sc-bwzfXH hyvTSe"
+      type="button"
+    >
+      Display Count
+    </button>
+  </div>
+</div>
+`;
